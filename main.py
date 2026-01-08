@@ -7,7 +7,6 @@ import gzip
 import platform
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin, parse_qs
-from pystyle import Colors, Colorate
 
 # ================= CONFIG =================
 # Lấy BOT_TOKEN từ biến môi trường - KHÔNG HARDCODE
